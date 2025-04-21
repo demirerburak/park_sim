@@ -1,4 +1,3 @@
-12.01.2024
 # park_sim
 Java Object-Oriented Car Park Management System
 
